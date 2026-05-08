@@ -51,6 +51,7 @@ const TransformationSection = () => {
 
   return (
     <section
+    id="success-stories"
       style={{
 backgroundColor: "#000",
         padding: "90px 20px",
